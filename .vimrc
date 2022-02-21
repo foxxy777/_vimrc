@@ -12,7 +12,9 @@ set nu!
 set sw=4 
 set ts=4 
 set expandtab 
- 
+
+set noswapfile
+
 set autoindent 
  
 set fileencodings=utf-8,ucs-bom,gb18030,gbk,gb2312,cp936 
